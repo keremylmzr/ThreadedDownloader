@@ -99,4 +99,5 @@ Kaç thread? (1–16, öneri:4): 8
 ✔ İndirme tamamlandı → indirilenler/largefile.iso
 
 
-Projeyi faydalı bulduysanız GitHub üzerinde yıldız (⭐) vererek destek olabilirsiniz.
+
+Projeyi faydalı bulduysanız GitHub üzerinde yıldız vererek destek olabilirsiniz.
