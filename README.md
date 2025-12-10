@@ -1,6 +1,6 @@
 # Threaded Downloader
 
-Threaded Downloader, Go dili ile yazılmış; çok parçalı indirme yapabilen, otomatik kaldığı yerden devam  özelliğine sahip bir komut satırı  aracıdır..
+Threaded Downloader, Go dili ile yazılmış; çok parçalı indirme yapabilen, otomatik kaldığı yerden devam etme özelliğine sahip bir komut satırı  aracıdır..
 
 Bu proje; büyük dosyaların indirilmesi, sık kopan internet bağlantıları, Tor ağı üzerinden anonim indirme gibi özellikler göz önünde bulundurularak tasarlanmıştır.
 
